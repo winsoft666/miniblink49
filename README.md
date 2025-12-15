@@ -1,6 +1,6 @@
 # 声明
 
-miniblink 108内核版本和华为达成战略合作，已经在华为欧拉系统里开源https://gitee.com/openeuler/liteview。
+miniblink 108内核版本和华为达成战略合作，已经在华为欧拉系统里开源https://gitee.com/openeuler/liteview 。
 
 而本仓库收藏的是较老的49内核版本。如果需要更新的，可以参考上述108内核版本。
 
